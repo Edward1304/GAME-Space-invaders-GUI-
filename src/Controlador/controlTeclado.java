@@ -11,7 +11,6 @@ import java.awt.event.KeyListener;
 /**
  *
  * @author Edward Fabian <egoyeneche at unal.edu.co
- * @author Alejandra Jaramillo <aljaramillo at unal.edu.co
  */
 
 /** 

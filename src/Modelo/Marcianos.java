@@ -15,7 +15,6 @@ import javax.swing.UnsupportedLookAndFeelException;
 /**
  *
  * @author Edward Fabian <egoyeneche at unal.edu.co 
- * @author Alejandra Jaramillo <aljaramillo at unal.edu.co
  */
 public class Marcianos extends Movimientos {
     

@@ -11,7 +11,6 @@ import javax.swing.ImageIcon;
 /**
  *
  * @author Edward Fabian <egoyeneche at unal.edu.co
- * @author Alejandra Jaramillo <aljaramillo at unal.edu.co
  */
 public class DisparoJugador extends Movimientos{
     

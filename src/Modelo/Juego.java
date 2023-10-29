@@ -13,7 +13,7 @@ import java.awt.Rectangle;
 /**
  *
  * @author Edward Fabian <egoyeneche at unal.edu.co
- * @author Alejandra Jaramillo <aljaramillo at unal.edu.co
+
  */
 
  

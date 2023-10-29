@@ -11,9 +11,6 @@ import Modelo.Juego;
 /**
  *
  * @author Edward Fabian <egoyeneche at unal.edu.co
- * @author Alejandra Jaramillo <aljaramillo at unal.edu.co
- * 
- * 
  */
 
 public abstract class Movimientos extends Juego implements interfazMovimientoJuego{
